@@ -5,8 +5,7 @@
 <div style="background-color: #0cbaba;
 background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
 ">
-
-<img src="https://github.com/StphnLwnga/StphnLwnga/blob/main/banner_1.gif?raw=true" alt="Minimalistic Creative Agency Business Banner (2)" style="width:100%;" />
+<img src="https://github.com/StphnLwnga/StphnLwnga/blob/main/banner_2.gif?raw=true" alt="Minimalistic Creative Agency Business Banner (2)" style="width:100%;" />
 
 <h3 style="display: block; width: 100%;text-align: left;">Technology Stack 🧑🏾‍💻</h3>
 
