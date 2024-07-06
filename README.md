@@ -129,31 +129,21 @@ background-image: linear-gradient(315deg, #0cbaba 0%, #380036 74%);
 
 </div>
 
-<h3 style="display: block; width: 100%;text-align: left;">Github  Stats 📊:</h3>
+<h3 style="display: block; width: 100%;text-align: left;">Github Stats 📊:</h3>
 
 <div style="padding-left: 20px; padding-right: 20px;">
-
-<table style="border: none;">
-  <tr style="border: none; padding-bottom: 5px; padding-top:5px;">
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StphnLwnga&show_icons=true&theme=radical" alt="Top Langs"/>
-    </td>
-    <td style="border: none;">
-      <a href="https://git.io/streak-stats" style="cursor: pointer;">
-        <span md-inline="image" data-src="https://github-readme-streak-stats.herokuapp.com/?user=StphnLwnga&amp;show_icons=true&amp;theme=radical" contenteditable="true" class="md-image md-img-loaded md-expand">
-          <span class="md-meta md-before md-content" contenteditable="true">
-           <!-- <span class="md-image-before-src ty-focusable">![GitHub Streak](</span><span class="md-image-src-span ty-focusable">https://github-readme-streak-stats.herokuapp.com/?user=StphnLwnga&amp;show_icons=true&amp;theme=radical</span><span class="md-image-after-src">)
-            </span> -->
-          </span>
-          <img referrerpolicy="no-referrer" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StphnLwnga&amp;show_icons=true&amp;theme=radical" onerror="onImageErrorFunc(event)" onload="onLoadedFuncForQuickAction(event)">
-        </span>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; align-items: center; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StphnLwnga&show_icons=true&theme=radical" alt="Top Langs"/> 
+  <a href="https://git.io/streak-stats" style="cursor: pointer;">
+    <span md-inline="image" data-src="https://github-readme-streak-stats.herokuapp.com/?user=StphnLwnga&amp;show_icons=true&amp;theme=radical" contenteditable="true" class="md-image md-img-loaded md-expand">
+      <img referrerpolicy="no-referrer" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=StphnLwnga&amp;show_icons=true&amp;theme=radical" onerror="onImageErrorFunc(event)" onload="onLoadedFuncForQuickAction(event)">        
+    </span>    
+  </a>
 </div>
 
-<h3 style="display: block; width: 100%;text-align: left;">Education 🏫: <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="padding-top:10px;" /></h3>
+</div>
+
+<h3 style="display: block; width: 100%;text-align: left;">Education 🏫: <span style="padding-top: 5px;"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="padding-top:10px;" /></span></h3>
 
 <h3 style="display: block; width: 100%;text-align: left;">I write sometimes 📰: <a href="https://stphnlwanga.medium.com/" style="cursor: pointer;"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a></h3>
 
